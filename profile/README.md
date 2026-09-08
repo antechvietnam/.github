@@ -51,8 +51,6 @@ Manufacturing • Retail & Distribution • Logistics • Finance • Healthcare
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-*(Update this list to match your actual stack)*
-
 </div>
 
 ---
@@ -66,11 +64,11 @@ Manufacturing • Retail & Distribution • Logistics • Finance • Healthcare
 
 ---
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects-->
 
 <!-- List public/showcase repos here, or link to case studies -->
-- [Project Name](https://github.com/antechvietnam/project-repo) — short one-line description
-- [Project Name](https://github.com/antechvietnam/project-repo) — short one-line description
+<!--- [Project Name](https://github.com/antechvietnam/project-repo) — short one-line description-->
+<!--- [Project Name](https://github.com/antechvietnam/project-repo) — short one-line description-->
 
 ---
 
